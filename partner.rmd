@@ -1,0 +1,11 @@
+---
+title: 'DS202_Lab1'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Guang Yi Lim
+github username: gylim0604
